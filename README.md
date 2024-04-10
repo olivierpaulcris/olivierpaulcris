@@ -23,7 +23,7 @@
 :mailbox:How to reach me: <a href="mailto:olivierpaulcristerna@gmail.com">olivierpaulcristerna@gmail.com</a>
 
 ---
-### :dizzy: Languages and Tools :
+### :dizzy: Languages and Tools : 
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual" alt="Visual" width="40" height="40"/>&nbsp;
