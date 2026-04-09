@@ -1,9 +1,9 @@
 <header>
-  <img src="https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png.webp" width="1200px" height="300px"/>
+  <img src="[https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png.webp](https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=2147483647&v=beta&t=IqnGNJxS4J-yaL4rgLBlx-cbNAbFwpEMCRvkkLXsR48)" width="1200px" height="300px"/>
   <div align= "center">
        <a href="https://www.linkedin.com/in/paulcristerna/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
   </div>
   <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
