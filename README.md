@@ -17,7 +17,7 @@
 
 :telescope: Hi! I’m Paul Cristerna. I'm a software developer with a strong focus on user experience, animations, and micro interactions.
 
-:star2: In my free time, I love to make some digital art, play video games or read a good book.
+:star2: In my free time, I love to make some digital art, play video games, play basketball or read a good book.
 
 :mailbox:How to reach me: <a href="mailto:olivierpaulcristerna@gmail.com">olivierpaulcristerna@gmail.com</a>
 
